@@ -25,14 +25,3 @@ This project aims to:
 - Recommend operational improvements for mess planning
 
 ---
-
-## 🔗 Submission Link
-
-This repository serves as my final submission for the Day-13 Hackathon.
-
-✅ All deliverables are included.  
-📬 Form link (already submitted): https://forms.gle/uV7ZXBaHxTNSGAU17
-
----
-
-Thanks for reviewing my work!
